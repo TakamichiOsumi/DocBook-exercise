@@ -1,0 +1,12 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+ "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<book>
+  <chapter>
+    <title>chap1 title</title>
+    <sect1>
+      <title>sect1 title</title>
+      <para>para1</para>
+      <para>para2</para>
+    </sect1>
+  </chapter>
+</book>
