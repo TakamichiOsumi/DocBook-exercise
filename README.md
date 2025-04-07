@@ -2,9 +2,9 @@
 
 Mini project for my self-study.
 
-### The purpose of this project
+### Project purpose
 
-Learn the basics of DocBook and DocBook Stylesheet to create html and pdf.
+Learn DocBook and DocBook Stylesheet to create html and pdf.
 
 ### Required software packages
 

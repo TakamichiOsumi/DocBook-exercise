@@ -1,12 +1,21 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
  "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <book>
+  <preface>
+    <title>Sample preface</title>
+    <para>This book is sample</para>
+  </preface>
   <chapter>
     <title>chap1 title</title>
     <sect1>
-      <title>sect1 title</title>
+      <title>1st sect1 title</title>
       <para>para1</para>
       <para>para2</para>
+    </sect1>
+    <sect1>
+      <title>2nd sect1 title</title>
+      <para>foo</para>
+      <para>bar</para>
     </sect1>
   </chapter>
 </book>
