@@ -7,8 +7,8 @@ main.fo: pdf_style.xsl main.sgml
 main.xml: main.sgml
 	xmllint --output $@ --noent --valid $^
 
-main.html: main.xml html_style.xsl
-	xsltproc --nonet -output $@ html_style.xsl main.xml
+main.html: html_style.xsl main.xml
+	xsltproc --nonet -output $@ $^
 
 main.pdf: main.fo
 	fop -c font.xml -fo $^ -pdf $@
