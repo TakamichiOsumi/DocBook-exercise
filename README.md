@@ -4,12 +4,11 @@ Mini project for my self-study.
 
 ### The purpose of this project
 
-Learn the basics of DocBook and DocBook Stylesheet.
-
+Learn the basics of DocBook and DocBook Stylesheet to create html and pdf.
 
 ### Required software packages
 
-Install `openjdk`, `fop` and `xsltproc(libxml2)`.
+Install `xmllint`, `openjdk`, `fop` and `xsltproc(libxml2)`.
 
 ### How to build
 
